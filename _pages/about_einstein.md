@@ -4,4 +4,3 @@ Prior to my graduate studies at Rice, I completed one year of study in Informati
 
 Before transitioning into technology, I worked as a Immigration Officer at Taoyuan International Airport, gaining experience in border security, intelligence analysis, and large-scale data collection in high-stakes operational environments.
 
-Outside of academics, I enjoy art, especially oil painting, and my favorite game is chess.
