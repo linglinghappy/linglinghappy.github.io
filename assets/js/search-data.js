@@ -423,14 +423,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6C%63%32%30%33@%72%69%63%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6C%63%32%30%33@%72%69%63%65.%65%64%75", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/lingchangtw", "_blank");
         },
       },{
       id: 'light-theme',
