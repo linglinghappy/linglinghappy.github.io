@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: cv
 permalink: /cv/
 title: cv
@@ -8,4 +8,4 @@ cv_pdf: /assets/pdf/cv_intern_ling-8.pdf
 description: 
 toc:
   sidebar: left
---- -->
+---
