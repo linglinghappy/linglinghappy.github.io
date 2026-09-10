@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MCSE @ Rice University · Seeking New Grad SWE roles (Jan 2027)
 
 profile:
   align: right
