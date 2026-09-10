@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: MCSE @ Rice University · Seeking New Grad SWE roles (Jan 2027)
 
 profile:
   align: right
