@@ -1,13 +1,12 @@
-<!-- ---
+---
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected software and research projects. Click a card for a walkthrough video and details.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
 horizontal: false
---- -->
+---
 
 <!-- pages/projects.md -->
 <div class="projects">
