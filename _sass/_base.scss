@@ -678,17 +678,37 @@ footer.sticky-bottom {
 .projects {
   a {
     text-decoration: none;
-
-    &:hover {
-      .card-title {
-        color: var(--global-theme-color);
-      }
-    }
   }
 
   .card {
     img {
       width: 100%;
+    }
+
+    // Uniform 16:9 thumbnails so cards in the same row don't leave empty gaps
+    img.card-img-top {
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      object-position: top;
+    }
+
+    .card-title a {
+      color: inherit;
+    }
+
+    &:hover .card-title {
+      color: var(--global-theme-color);
+    }
+
+    // Keep the GitHub link clickable above the title's stretched-link overlay
+    .github-icon {
+      position: relative;
+      z-index: 2;
+    }
+
+    // Reserve the icon row's height even without a GitHub link, so skill tags line up across cards
+    .project-links {
+      min-height: 1.5rem;
     }
   }
 
