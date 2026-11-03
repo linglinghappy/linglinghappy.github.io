@@ -28,6 +28,6 @@ Howdy! I'm Ling Chang, a second-year master's student in Computational Science a
 
 Most recently, I worked as a full-stack software engineer intern at [Intuit](https://www.intuit.com/), building and deploying cloud-based e-commerce services. I was a Graduate Research Assistant in the Department of Bioinformatics and Computational Biology of The University of Texas MD Anderson Cancer Center, supervised by [Dr.Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/index.html). My work focuses on applying machine learning to biomedical data.
 
-Prior to my graduate studies at Rice, I completed one year of study in Information Technology and Management at The University of Texas at Dallas and earned my Bachelor’s degree in International Relations from National Chengchi University.
+<!-- Prior to my graduate studies at Rice, I completed one year of study in Information Technology and Management at The University of Texas at Dallas and earned my Bachelor’s degree in International Relations from National Chengchi University. -->
 
 Outside of academics, I enjoy art, especially oil painting, and my favorite game is chess.
