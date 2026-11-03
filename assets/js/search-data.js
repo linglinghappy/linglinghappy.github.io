@@ -405,6 +405,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_dog/";
             },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/cv_ling-9.pdf", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/cv_intern_ling-8.pdf
+cv_pdf: /assets/pdf/cv_ling-9.pdf
 description:
 toc:
   sidebar: left
