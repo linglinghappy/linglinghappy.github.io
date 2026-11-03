@@ -24,12 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Howdy! I'm Ling Chang, a second-year master's student in Computational Science and Engineering (MCSE) at Rice University. I'm seeking New Grad Software Engineer opportunities starting in January 2027.
+Howdy! I'm Ling Chang, a second-year master's student in Computational Science and Engineering (MCSE) at Rice University. **I'm seeking New Grad Software Engineer opportunities starting in January 2027.**
 
-Most recently, I worked as a full-stack software engineer intern at Intuit, building and deploying cloud-based e-commerce services. I was a Graduate Research Assistant in the Department of Bioinformatics and Computational Biology of The University of Texas MD Anderson Cancer Center, supervised by [Dr.Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/index.html). My work focuses on applying machine learning to biomedical data.
+Most recently, I worked as a full-stack software engineer intern at [Intuit](https://www.intuit.com/), building and deploying cloud-based e-commerce services. I was a Graduate Research Assistant in the Department of Bioinformatics and Computational Biology of The University of Texas MD Anderson Cancer Center, supervised by [Dr.Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/index.html). My work focuses on applying machine learning to biomedical data.
 
 Prior to my graduate studies at Rice, I completed one year of study in Information Technology and Management at The University of Texas at Dallas and earned my Bachelor’s degree in International Relations from National Chengchi University.
-
-Before transitioning into technology, I worked as an Immigration Officer at Taoyuan International Airport, gaining experience in border security, intelligence analysis, and large-scale data collection in high-stakes operational environments.
 
 Outside of academics, I enjoy art, especially oil painting, and my favorite game is chess.
