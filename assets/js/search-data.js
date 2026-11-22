@@ -404,6 +404,11 @@ ninja.data = [{
           description: "Discover random dog breeds from The Dog API, with a ban list that filters out attributes you don&#39;t want.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_dog/";
+            },},{id: "projects-happy-gallery",
+          title: 'Happy Gallery',
+          description: "Full-stack online art gallery for my oil paintings, with secure posting, image uploads, and a guest book.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/happy_gallery/";
             },},{
         id: 'social-cv',
         title: 'CV',
