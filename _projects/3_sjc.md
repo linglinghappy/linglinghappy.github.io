@@ -3,7 +3,7 @@ layout: page
 title: SJC Flight Dashboard
 description: Live flight dashboard for San José Airport with search, filters, charts, and per-flight detail pages.
 img: assets/img/projects/sjc.jpg
-importance: 3
+importance: 4
 category: web
 github: https://github.com/linglinghappy/sjc-flight-dashboard
 skills: [React, React Router, Recharts, REST API, Data Visualization]

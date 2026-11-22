@@ -4,7 +4,7 @@ published: false # hidden until the team confirms the contribution details
 title: DiscoverPath
 description: Knowledge-graph-based search engine for biomedical research papers. CIKM 2023 demo paper.
 img: assets/img/projects/discoverpath.jpg
-importance: 4
+importance: 5
 category: research
 github: https://github.com/linglinghappy/DiscoverPath
 skills: [Frontend, Knowledge Graphs, Information Retrieval]

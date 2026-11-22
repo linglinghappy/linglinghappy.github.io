@@ -3,7 +3,7 @@ layout: page
 title: Dog Discover
 description: Discover random dog breeds from The Dog API, with a ban list that filters out attributes you don't want.
 img: assets/img/projects/dog.jpg
-importance: 5
+importance: 6
 category: web
 github: https://github.com/linglinghappy/dog-discover
 skills: [React, REST API, async/await]

@@ -3,7 +3,7 @@ layout: page
 title: Boba Shop Order App
 description: Full-stack boba tea ordering app with a live SVG drink preview and full CRUD on Supabase.
 img: assets/img/projects/boba.jpg
-importance: 2
+importance: 3
 category: web
 github: https://github.com/linglinghappy/boba-shop-order-app
 skills: [React, React Router, Supabase, PostgreSQL, SVG]

@@ -3,7 +3,7 @@ layout: page
 title: STAI-X 2026 Conference Website
 description: Built the first versions of the official website for an NSF-supported international conference at Harvard.
 img: assets/img/projects/staix.jpg
-importance: 1
+importance: 2
 category: web
 skills: [HTML, Tailwind CSS, JavaScript, Responsive Design]
 ---
