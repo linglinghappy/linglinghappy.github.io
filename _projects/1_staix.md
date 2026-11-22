@@ -5,6 +5,7 @@ description: Built the first versions of the official website for an NSF-support
 img: assets/img/projects/staix.jpg
 importance: 2
 category: web
+website: https://statsupai.org/STAIX2026/index.html
 skills: [HTML, Tailwind CSS, JavaScript, Responsive Design]
 ---
 

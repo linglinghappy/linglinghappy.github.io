@@ -6,10 +6,11 @@ img: assets/img/projects/happy_gallery.jpg
 importance: 1
 category: web
 github: https://github.com/linglinghappy/happy-gallery
+website: https://happy-gallery.onrender.com/
 skills: [React, Supabase, PostgreSQL, Row Level Security, Full-Stack]
 ---
 
-**[Live demo](https://happy-gallery.onrender.com/){:target="\_blank"} · [View code on GitHub](https://github.com/linglinghappy/happy-gallery){:target="\_blank"}**
+**Live site:** [happy-gallery.onrender.com](https://happy-gallery.onrender.com/){:target="\_blank"} · **Code:** [GitHub](https://github.com/linglinghappy/happy-gallery){:target="\_blank"}
 
 {% include figure.liquid path="assets/img/projects/happy_gallery-walkthrough.gif" class="img-fluid rounded z-depth-1" alt="Walkthrough" avoid_scaling=true %}
 

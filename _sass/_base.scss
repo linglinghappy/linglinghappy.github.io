@@ -704,6 +704,7 @@ footer.sticky-bottom {
     .github-icon {
       position: relative;
       z-index: 2;
+      margin-right: 1rem;
     }
 
     // Reserve the icon row's height even without a GitHub link, so skill tags line up across cards
