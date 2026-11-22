@@ -30,4 +30,4 @@ Most recently, I worked as a full-stack software engineer intern at [Intuit](htt
 
 <!-- Prior to my graduate studies at Rice, I completed one year of study in Information Technology and Management at The University of Texas at Dallas and earned my Bachelor’s degree in International Relations from National Chengchi University. -->
 
-Outside of academics, I enjoy art, especially oil painting, and my favorite game is chess.
+Outside of academics, I enjoy art, especially [oil painting](https://happy-gallery.onrender.com/), and my favorite game is chess.
