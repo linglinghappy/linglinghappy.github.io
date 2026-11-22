@@ -11,7 +11,7 @@ skills: [React, React Router, Recharts, REST API, Data Visualization]
 
 **[View code on GitHub](https://github.com/linglinghappy/sjc-flight-dashboard){:target="\_blank"}**
 
-{% include figure.liquid path="assets/img/projects/sjc.gif" class="img-fluid rounded z-depth-1" alt="Walkthrough" avoid_scaling=true %}
+{% include figure.liquid path="assets/img/projects/sjc-walkthrough.gif" class="img-fluid rounded z-depth-1" alt="Walkthrough" avoid_scaling=true %}
 
 A live flight dashboard for San José International Airport (SJC), powered by real-time data from the Aviationstack API. Users can browse departures and arrivals, track delays and on-time performance, and open a detail page for any flight.
 

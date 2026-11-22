@@ -11,7 +11,7 @@ skills: [React, REST API, async/await]
 
 **[View code on GitHub](https://github.com/linglinghappy/dog-discover){:target="\_blank"}**
 
-{% include figure.liquid path="assets/img/projects/dog.gif" class="img-fluid rounded z-depth-1" alt="Walkthrough" avoid_scaling=true %}
+{% include figure.liquid path="assets/img/projects/dog-walkthrough.gif" class="img-fluid rounded z-depth-1" alt="Walkthrough" avoid_scaling=true %}
 
 Each click fetches a random dog from The Dog API. Users can ban any attribute they're not interested in, and banned values never appear again.
 

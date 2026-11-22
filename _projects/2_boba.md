@@ -11,7 +11,7 @@ skills: [React, React Router, Supabase, PostgreSQL, SVG]
 
 **[View code on GitHub](https://github.com/linglinghappy/boba-shop-order-app){:target="\_blank"}**
 
-{% include figure.liquid path="assets/img/projects/boba.gif" class="img-fluid rounded z-depth-1" alt="Walkthrough" avoid_scaling=true %}
+{% include figure.liquid path="assets/img/projects/boba-walkthrough.gif" class="img-fluid rounded z-depth-1" alt="Walkthrough" avoid_scaling=true %}
 
 A boba tea ordering app. Users customize a drink, watch a live cup illustration update with every choice, and manage their orders. Orders are stored in a Supabase (PostgreSQL) database with full create, read, update, and delete support.
 

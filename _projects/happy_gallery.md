@@ -11,7 +11,7 @@ skills: [React, Supabase, PostgreSQL, Row Level Security, Full-Stack]
 
 **[Live demo](https://happy-gallery.onrender.com/){:target="\_blank"} · [View code on GitHub](https://github.com/linglinghappy/happy-gallery){:target="\_blank"}**
 
-{% include figure.liquid path="assets/img/projects/happy_gallery.gif" class="img-fluid rounded z-depth-1" alt="Walkthrough" avoid_scaling=true %}
+{% include figure.liquid path="assets/img/projects/happy_gallery-walkthrough.gif" class="img-fluid rounded z-depth-1" alt="Walkthrough" avoid_scaling=true %}
 
 An online art gallery where visitors exhibit paintings, admire them, and sign a guest book. I built it to show my own oil paintings: each work hangs in a frame on a lit gallery wall with a museum-style label, and you can click a painting to turn it around and read the story on the back.
 
